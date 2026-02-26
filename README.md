@@ -7,7 +7,7 @@ This project is a Thermostat that connects to an embedded system built from the 
 
 ## What did I do well and how could I improve?
 
-I believe I gathered a well understanding of the physical items `within my hardware`. Within the guides given it was required to have three buttons. The button location however, was blocked and required moving to a new location. This was easily fixed with the understanding of how to correctly set up each connecting wires and resistor. I could improve with `my troobleshooting`. My troobleshooting could process more smoothly if I was not working to quickly. The answers are often right in front of my with the simplest mistake.
+I believe I gathered a well understanding of the physical items `within my hardware`. Within the guides given it was required to have three buttons. The button location however, was blocked and required moving to a new location. This was easily fixed with the understanding of how to correctly set up each connecting wires and resistor. I could improve with `my troobleshooting`. My troobleshooting could process more smoothly if I was not working to quickly. The answers are often right in front of me with the simplest mistake.
 
 ## What tools did I add to support my work?
 
