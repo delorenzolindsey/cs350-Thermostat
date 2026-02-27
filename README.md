@@ -3,7 +3,7 @@ CS350 final project
 
 ## Summarize the project and what problem it was solving.
 
-This project is a Thermostat that connects to an embedded system built from the class CS350 with SNHU. Within this system hardware there is a Raspberry Pi, solderless breadboard, Wires, 3 buttons, a temperature sensor, and a 16x2 LCD screen.
+This project is a Thermostat that connects to an embedded system built from the class CS350 with SNHU. Within this system hardware there is a Raspberry Pi, solderless breadboard, Wires, 3 buttons, a temperature sensor, 2 LED lights, and a 16x2 LCD screen.
 
 ## What did I do well and how could I improve?
 
